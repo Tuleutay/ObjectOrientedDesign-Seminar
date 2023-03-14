@@ -1,6 +1,6 @@
 package sem01;
 
-public class Animal {
+public abstract class Animal {
 
     protected String name;
 
@@ -19,11 +19,14 @@ public class Animal {
         System.out.println("animal name: " +name);
     }
 
-    public void voice(){
-        System.out.println("MYAU MYAU MYAU");
-    }
+    protected abstract void voice();
 
     public void jump(){
         System.out.println(" I am jumping");
+    }
+
+
+    public String toString() {
+        return null;
     }
 }

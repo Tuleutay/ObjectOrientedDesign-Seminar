@@ -25,4 +25,14 @@ public class Dog extends Animal {
     public void voice(){
         System.out.println("Gav gav auu");
     }
+
+
+    @Override
+    public String toString() {
+        return "Dog{" +
+                "color='" + color + '\'' +
+                ", age=" + age +
+                ", name='" + name + '\'' +
+                '}';
+    }
 }

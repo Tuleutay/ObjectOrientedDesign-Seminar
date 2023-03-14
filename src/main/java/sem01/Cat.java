@@ -1,7 +1,7 @@
 package sem01;
 
 
-public class Cat extends Animal{
+public class Cat extends Animal {
 
     private String color;
     private int age;
@@ -38,11 +38,15 @@ public class Cat extends Animal{
     }
 
     public void setAge(int age) {
-        if (age > 0 && age <31){
+        if (age > 0 && age < 31) {
             this.age = age;
         } else {
             System.out.println("Введен неверный возраст");
         }
+    }
+
+    public void klubok() {
+        System.out.println("Svernulsya v klubok");
     }
 
     @Override
@@ -55,18 +59,18 @@ public class Cat extends Animal{
     }
 
     @Override
-    public void animalInfo(){
-        System.out.println(" This cat name is :"+ name + " and age = "+ age + " and color: " + color);
+    public void animalInfo() {
+        System.out.println(" This cat name is :" + name + " and age = " + age + " and color: " + color);
 
     }
 
     @Override
-    public void voice(){
+    public void voice() {
         System.out.println("MUR MUR");
     }
 
     @Override
-    public void jump(){
+    public void jump() {
         System.out.println("Cat jamping");
     }
 }
