@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd51c23-c223-4d06-b548-69dff3c9cd58" name="Changes" comment="2 semenar">
+    <list default="true" id="afd51c23-c223-4d06-b548-69dff3c9cd58" name="Changes" comment="2 semenar доделал">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/GAME/AbstractGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/GAME/Answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/GAME/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/task2/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem03/task2/TASK2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem02/Ex2/Ex2_main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem02/Ex2/Ex2_main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem02/Ex2/Roliki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem02/Ex2/Roliki.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +56,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Примеры проекты/javaoop"
+    "last_opened_file_path": "C:/Users/tooly/Desktop/GB/Java/Примеры проекты/sem3/javaoop"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -56,7 +64,7 @@
       <recent name="sem01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex2_main">
+  <component name="RunManager" selected="Application.TASK2">
     <configuration name="Ex2_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem02.Ex2.Ex2_main" />
       <module name="ObjectOrientedDesign-Seminar" />
@@ -96,6 +104,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TASK2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem03.task2.TASK2" />
+      <module name="ObjectOrientedDesign-Seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem03.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="vektorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem01.ex2.vektorMain" />
       <module name="ObjectOrientedDesign-Seminar" />
@@ -111,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TASK2" />
         <item itemvalue="Application.Ex2_main" />
         <item itemvalue="Application.ExSem2" />
         <item itemvalue="Application.Exaple01" />
@@ -155,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678792931890</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2 semenar доделал">
+      <created>1678794689043</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678794689043</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +193,7 @@
     <MESSAGE value="1 sem done" />
     <MESSAGE value="1 sem" />
     <MESSAGE value="2 semenar" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 semenar" />
+    <MESSAGE value="2 semenar доделал" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 semenar доделал" />
   </component>
 </project>
