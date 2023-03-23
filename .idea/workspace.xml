@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afd51c23-c223-4d06-b548-69dff3c9cd58" name="Changes" comment="3 semenar game">
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/GenBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/SimplBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/Task03/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/Task03/program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/Task04/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/Task04/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/Task04/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/mainn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/task2/BoxWithNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem04/task2/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,39 +66,13 @@
       <recent name="sem01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TASK2">
-    <configuration name="Ex2_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem02.Ex2.Ex2_main" />
+  <component name="RunManager" selected="Application.sem04.Task04.Program">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem04.task2.Program" />
       <module name="ObjectOrientedDesign-Seminar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem02.Ex2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExSem2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem02.ExSem2" />
-      <module name="ObjectOrientedDesign-Seminar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exaple01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem01.Exaple01" />
-      <module name="ObjectOrientedDesign-Seminar" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem01.*" />
+          <option name="PATTERN" value="sem04.task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +93,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vektorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem01.ex2.vektorMain" />
+    <configuration name="mainn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem04.mainn" />
       <module name="ObjectOrientedDesign-Seminar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem01.ex2.*" />
+          <option name="PATTERN" value="sem04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem04.Task03.program" />
+      <module name="ObjectOrientedDesign-Seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem04.Task03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sem04.Task04.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem04.Task04.Program" />
+      <module name="ObjectOrientedDesign-Seminar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem04.Task04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sem04.Task04.Program" />
+        <item itemvalue="Application.program" />
+        <item itemvalue="Application.Program" />
+        <item itemvalue="Application.mainn" />
         <item itemvalue="Application.TASK2" />
-        <item itemvalue="Application.Ex2_main" />
-        <item itemvalue="Application.ExSem2" />
-        <item itemvalue="Application.Exaple01" />
-        <item itemvalue="Application.vektorMain" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679467552867</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="3 semenar game">
+      <created>1679555820630</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679555820630</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
